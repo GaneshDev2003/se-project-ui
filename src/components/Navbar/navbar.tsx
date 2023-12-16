@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-start">
         <div className="text-white text-xl font-bold">Course Recommender</div>
         <a className="text-white text-l font-bold mx-2" href = "/dashboard">Dashboard</a>
-        <a className="text-white text-l font-bold mx-2" href = "/dashboard">Profile</a>
+        <a className="text-white text-l font-bold mx-2" href = "/profile">Profile</a>
         <a className="text-white text-l font-bold mx-2" href = "/feedback">Feedback</a>
         <div className="flex items-center"> 
           <input
